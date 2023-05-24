@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332942195210",
+    "project_id": "btlmobile-fa685",
+    "storage_bucket": "btlmobile-fa685.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332942195210:android:5c80c3529a4591a76d7df3",
+        "android_client_info": {
+          "package_name": "com.example.btl_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332942195210-herkuuri0oliqh4iau3f7pimcv7s9t90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt5F6EgHq3NG4S2oCE7cMSTlmvEb24gLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332942195210-herkuuri0oliqh4iau3f7pimcv7s9t90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

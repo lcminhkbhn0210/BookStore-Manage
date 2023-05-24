@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">BTL_Mobile</string>
+    <string name="top_icon">TOP ICON</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="or">OR</string>
+    <string name="google_icon">google icon</string>
+    <string name="facebook_icon">facebook icon</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="Register">Register Now</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close navigation Drawer</string>
+    <string-array name="type">
+        <item>Giáo Dục</item>
+        <item>Truyện Tranh</item>
+        <item>Văn Học</item>
+        <item>Tiểu Thuyết</item>
+        <item>Khoa Học</item>
+        <item>Kinh Tế</item>
+        <item>Lịch Sử</item>
+        <item>Tôn Giáo</item>
+    </string-array>
+    <string-array name="month">
+        <item>All</item>
+        <item>Tháng 1</item>
+        <item>Tháng 2</item>
+        <item>Tháng 3</item>
+        <item>Tháng 4</item>
+        <item>Tháng 5</item>
+        <item>Tháng 6</item>
+        <item>Tháng 7</item>
+        <item>Tháng 8</item>
+        <item>Tháng 9</item>
+        <item>Tháng 10</item>
+        <item>Tháng 11</item>
+        <item>Tháng 12</item>
+    </string-array>
+</resources>
